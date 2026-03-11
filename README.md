@@ -27,7 +27,7 @@ It delivers **precise, technical, and actionable** guidance, making it ideal for
 
 ---
 TRY: 
-[CyberSec_GEN](https://chatgpt.com/g/g-6903767aad588191839964f8d0d0e7c7-cybersecurity-genia)
+[CyberSec_GEN](https://chatgpt.com/g/g-69b1590591fc8191b48b0b94e23526b4-cybersecurity-genai)
 
 ## 🧠 what does he do? (Core Instructions)
 
