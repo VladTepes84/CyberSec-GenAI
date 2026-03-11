@@ -1,5 +1,5 @@
 
-# CyberSec-GenIA
+# CyberSec-GenAI
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status: Stable](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
 ![Platform: Gemini / ChatGPT](https://img.shields.io/badge/platform-Gemini%20%7C%20ChatGPT-blueviolet)
