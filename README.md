@@ -4,7 +4,7 @@
 ![Status: Stable](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
 ![Platform: Gemini / ChatGPT](https://img.shields.io/badge/platform-Gemini%20%7C%20ChatGPT-blueviolet)
 
-AI Cybersecurity Analyst – Blue &amp; Red Team Assistant for Multi IA
+AI Cybersecurity Analyst – Blue &amp; Red Team Assistant for Multi AI
 ![Preview](screenshotspreview.png)
 
 # 🛡️ Cyber-Security – AI Analyst for Red & Blue Teams
